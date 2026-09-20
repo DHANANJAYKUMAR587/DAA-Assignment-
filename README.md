@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/DHANANJAYKUMAR587/DAA-Assignment-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/DHANANJAYKUMAR587/DAA-Assignment-/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/DHANANJAYKUMAR587/DAA-Assignment-/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/DHANANJAYKUMAR587/DAA-Assignment-/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DHANANJAYKUMAR587/DAA-Assignment-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/DHANANJAYKUMAR587/DAA-Assignment-/tree/master/0912-sort-an-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/DHANANJAYKUMAR587/DAA-Assignment-/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DHANANJAYKUMAR587/DAA-Assignment-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/DHANANJAYKUMAR587/DAA-Assignment-/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/DHANANJAYKUMAR587/DAA-Assignment-/tree/master/0912-sort-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/DHANANJAYKUMAR587/DAA-Assignment-/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->

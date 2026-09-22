@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/DHANANJAYKUMAR587/DAA-Assignment-/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DHANANJAYKUMAR587/DAA-Assignment-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/DHANANJAYKUMAR587/DAA-Assignment-/tree/master/0912-sort-an-array) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/DHANANJAYKUMAR587/DAA-Assignment-/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/DHANANJAYKUMAR587/DAA-Assignment-/tree/master/0074-search-a-2d-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/DHANANJAYKUMAR587/DAA-Assignment-/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+## Enumeration
+|  |
+| ------- |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/DHANANJAYKUMAR587/DAA-Assignment-/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 <!---LeetCode Topics End-->
